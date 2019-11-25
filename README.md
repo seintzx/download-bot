@@ -11,5 +11,5 @@ user = 12345,6789,etc..
 token = [your API token given by BotFather]
 ```
 
-- `user`: put every user you want to grant access to the bot, comma separated without blacnk spaces
+- `user`: put every user you want to grant access to the bot, comma separated without blank spaces
 - `token`: BotFather on telegram will create it for you
